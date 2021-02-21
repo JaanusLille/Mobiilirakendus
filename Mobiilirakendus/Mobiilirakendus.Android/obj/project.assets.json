@@ -1933,24 +1933,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jaanu\\.nuget\\packages\\": {},
+    "C:\\Users\\taavi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
+      "projectUniqueName": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
       "projectName": "Mobiilirakendus.Android",
-      "projectPath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
-      "packagesPath": "C:\\Users\\jaanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\obj\\",
+      "projectPath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
+      "packagesPath": "C:\\Users\\taavi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jaanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\taavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj": {
-              "projectPath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj"
+            "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj": {
+              "projectPath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj"
             }
           }
         }

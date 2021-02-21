@@ -10,6 +10,7 @@
         <Button Text="Vajuta mind! " Clicked="Handle_Clicked" />
         <Label Text="Hello world! :) " FontSize="Title" Padding="30,10,30,10"/>
         <Label Text="Time for a snack" FontSize="16" Padding="30,0,30,0"/>
+        <Label Text="Taavi likes snacks" FontSize="16" Padding="30,0,30,0"/>
         <Label FontSize="16" Padding="30,24,30,0">
             <Label.FormattedText>
                 <FormattedString>

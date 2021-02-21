@@ -631,23 +631,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jaanu\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\taavi\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj",
+      "projectUniqueName": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj",
       "projectName": "Mobiilirakendus",
-      "projectPath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj",
-      "packagesPath": "C:\\Users\\jaanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\obj\\",
+      "projectPath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.csproj",
+      "packagesPath": "C:\\Users\\taavi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jaanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\taavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

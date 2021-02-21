@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LTRiNRvP5WnUxVvorGEBr2vIJAkJS5GodeUXZm372k50svmJ7LdhRgg6GTrlN7sHVf5BTHkfu225fMZTFJLfVw==",
+  "dgSpecHash": "zCfgP1jIdea3QFv9hg+4jzh1EFxwx7pKmkNatn2ROjE9f9Y3NI318DdyaHIRvyv8a8FPmLcnSPryR7uYVHW2Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaanu\\source\\repos\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
+  "projectFilePath": "C:\\Users\\taavi\\Desktop\\modiilir\\Mobiilirakendus\\Mobiilirakendus\\Mobiilirakendus.Android\\Mobiilirakendus.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
