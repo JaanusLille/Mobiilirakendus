@@ -6,9 +6,10 @@
     <StackLayout>
         
         <Frame BackgroundColor="Indigo" Padding="24" CornerRadius="10">
-            <Label Text="Meie uskumatu äpp!!! " HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Label Text="Meie uskumatu äpp!!! " HorizontalTextAlignment="Center" TextColor="White" FontSize="36" Margin="50" />
+
         </Frame>
-        <Button Text="Vajuta mind! " Clicked="Handle_Clicked" BackgroundColor="CadetBlue" CornerRadius="10" />
+        <Button Text="Vajuta mind! " Clicked="Handle_Clicked" BackgroundColor="Indigo" TextColor="White" CornerRadius="10" />
         <Label Text="Hello world! :) " FontSize="Title" Padding="30,10,30,10"/>
         <Label Text="Time for a snack" FontSize="16" Padding="30,0,30,0"/>
         <Label Text="Taavi likes snacks" FontSize="16" Padding="30,0,30,0"/>
@@ -24,5 +25,6 @@
             </Label.FormattedText>
         </Label>
     </StackLayout>
+    
 
 </ContentPage>
